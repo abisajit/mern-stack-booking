@@ -1,0 +1,25 @@
+{
+  "name": "Backend",
+  "version": "1.0.0",
+  "description": "\"Backend Folder\"",
+  "main": "index.js",
+  "scripts": {
+    "scripts": {"start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "react-scripts start"
+    }
+  },
+  "author": "Abishek Pandian",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^7.7.0",
+    "nodemon": "^3.1.4",
+    "react-scripts": "^5.0.1"
+  }
+}
